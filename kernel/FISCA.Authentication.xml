@@ -98,6 +98,14 @@
             <param name="accesspoint"></param>
             <param name="fullTimeEncrypt"></param>
         </member>
+        <member name="M:FISCA.Authentication.DSAServices.ConnectByAccessToken(System.String,System.String,System.String)">
+            <summary>
+            連線到 DSA
+            </summary>
+            <param name="accessPoint">服務端點。</param>
+            <param name="dsaToken">合法 Credential。</param>
+            <param name="accessToken">合法 Credential。</param>
+        </member>
         <member name="M:FISCA.Authentication.DSAServices.Disconnect">
             <summary>
             斷線。
