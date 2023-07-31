@@ -2941,6 +2941,11 @@
               查詢類型 System.Drawing.Bitmap 的當地語系化資源。
             </summary>
         </member>
+        <member name="P:FISCA.Properties.Resources.ischool_logo">
+            <summary>
+              查詢類型 System.Drawing.Bitmap 的當地語系化資源。
+            </summary>
+        </member>
         <member name="P:FISCA.Properties.Resources.logo_words">
             <summary>
               查詢類型 System.Drawing.Bitmap 的當地語系化資源。
